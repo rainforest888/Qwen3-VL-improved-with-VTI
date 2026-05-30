@@ -1,0 +1,1165 @@
+﻿index,true_answer,pred_answer,is_correct,model_output_raw
+241,B,B,True,B
+252,B,B,True,B
+253,A,A,True,A. the temperature of the soda
+254,B,B,True,B. the air pressure in the footballs
+256,A,A,True,A
+258,B,B,True,B
+261,B,B,True,B
+264,B,B,True,B
+267,A,A,True,A. a seed
+269,A,A,True,A. northern flying squirrel
+274,B,B,True,B. tiger moray
+278,B,B,True,B. polar bear
+293,A,A,True,A
+295,B,B,True,B. salty
+302,B,B,True,B. a compound
+308,A,A,True,A. to the right than to the left
+313,A,A,True,A. to the right than to the left
+316,B,B,True,B. a compound
+344,B,B,True,B. Maryland
+355,A,A,True,A
+362,B,B,True,B. yes
+364,B,B,True,B. no
+365,B,B,True,B. True
+370,B,A,False,A. True
+371,A,A,True,A. weather
+377,B,A,False,A. ginkgo leaf
+388,B,B,True,B. They curl up into a ball.
+399,A,A,True,A. the bananas
+401,A,A,True,A
+403,B,B,True,B. John Henry beats the machine.
+404,B,B,True,B
+407,B,B,True,B. before sumo wrestling
+410,B,B,True,B
+419,B,A,False,A.
+426,B,B,True,B. largest
+428,A,A,True,A
+442,A,A,True,A. when a river next to the school over
+448,B,B,True,B. chrysalis
+449,A,A,True,A. endotherms
+452,A,A,True,A
+453,B,B,True,B. Strombolian eruption
+454,A,B,False,B. dicot
+477,B,B,True,B. convection
+478,B,B,True,B. xylem
+480,B,A,False,A
+481,A,B,False,B. concave lens
+482,A,A,True,A. basket star
+484,A,A,True,A. prokaryotic cell
+485,B,B,True,B
+486,B,B,True,B. potential energy
+487,B,B,True,B
+488,B,B,True,B. radial symmetry
+858,A,A,True,A. Repel.
+863,A,A,True,A. Repel.
+1085,A,A,True,A. yes
+1086,A,A,True,A. yes
+1087,B,B,True,B. no
+1088,B,B,True,B. no
+1231,A,A,True,A. The first image
+1232,A,A,True,A. The first image
+1234,B,B,True,B. The second image
+1235,A,A,True,A. The first image
+1237,B,B,True,B. The second image
+1238,B,B,True,B. The second image
+1242,B,B,True,B. The second image
+1243,B,B,True,B. The second image
+1244,B,B,True,B. The second image
+1247,A,A,True,A. The first image
+1248,A,A,True,A. The first image
+1251,A,A,True,A. The first image
+1253,A,A,True,A. The first image
+1254,A,A,True,A. The first image
+1255,A,A,True,A. The first image
+1256,A,B,False,B. The second image
+1257,B,B,True,B. The second image
+1258,A,A,True,A. The first image
+1259,A,A,True,A. The first image
+1262,A,A,True,A. The first image
+1264,A,A,True,A. The first image
+1267,B,B,True,B. The second image
+1268,B,B,True,B. The second image
+1269,B,B,True,B. The second image
+1270,A,A,True,A
+1273,B,B,True,B. The second image
+1275,A,A,True,A. The first image
+1276,A,A,True,A. The first image
+1277,B,B,True,B. The second image
+1278,B,B,True,B. The second image
+1279,A,A,True,A. The first image
+34,A,A,True,A
+51,D,D,True,D
+168,B,B,True,B
+244,A,A,True,A
+270,A,A,True,A
+282,A,A,True,A. The strength of the magnetic force is the
+284,C,C,True,C. The magnitude of the magnetic force is greater
+285,A,A,True,A. The magnitude of the magnetic force is the
+288,C,A,False,A. The magnitude of the magnetic force is greater
+289,B,C,False,C. flexible
+290,C,C,True,C. The magnitude of the magnetic force is smaller
+292,B,A,False,A. The magnitude of the magnetic force is smaller
+294,A,A,True,A. The magnetic force is stronger in Pair 
+300,A,A,True,A. sample A
+304,A,A,True,A. chlorine
+305,A,A,True,A. Solution B
+306,C,C,True,C. Solution B
+307,A,A,True,A. Solution A
+309,A,A,True,A. Solution B
+311,C,B,False,B. Solution A
+312,C,C,True,C. Solution B
+318,B,B,True,B. Solution B
+319,B,B,True,B. Solution B
+366,C,C,True,C. long legs
+374,C,C,True,C. metamorphic
+385,B,B,True,B. keep warm
+389,A,A,True,A
+391,C,C,True,C
+406,A,C,False,C. ethos (character)
+408,A,B,False,B. pathos (emotion)
+411,C,C,True,C. pathos (emotion)
+414,C,C,True,C. logos (reason)
+415,A,A,True,A. ethos (character)
+416,A,A,True,A
+418,C,C,True,C. ethos (character)
+420,B,B,True,B. pathos (emotion)
+421,B,B,True,B
+422,C,C,True,C
+424,A,A,True,A
+425,B,B,True,B
+427,B,B,True,B. the lioness's cubs will survive
+431,B,B,True,B. bat
+432,A,A,True,A. the female's offspring will live longer
+433,A,C,False,C. It eats leaves.
+434,B,B,True,B
+435,C,C,True,"C. They have warm, salty water."
+438,A,A,True,A
+440,B,B,True,B. the female's offspring will survive
+444,B,B,True,B. Hurricanes are large spiral-shaped storms.
+445,B,B,True,B. He smelled sulfur and then realized it was
+471,A,A,True,A. Other civilizations existed at the same time as
+473,A,A,True,A
+607,A,A,True,A. cube
+608,A,A,True,A. cube
+609,B,B,True,B. sphere
+610,C,B,False,B. sphere
+828,A,A,True,A
+832,A,A,True,A. predation
+833,A,A,True,A. predation
+835,B,B,True,B. mutualism
+837,B,B,True,B. mutualism
+838,B,B,True,B. mutualism
+840,B,A,False,A
+841,B,B,True,B. mutualism
+845,C,C,True,C. parasitism
+846,C,C,True,C. parasitism
+1009,A,A,True,A. The orange is next to the apple
+1012,B,B,True,B
+1092,B,B,True,B. Not the same
+1093,B,B,True,B. Not the same
+1096,B,B,True,B. Not the same
+1097,B,B,True,B. Not the same
+1099,B,B,True,B. Not the same
+1102,A,A,True,A. same
+1103,B,B,True,B. Not the same
+1104,B,B,True,B. Not the same
+1105,A,B,False,B. Not the same
+1106,B,B,True,B. Not the same
+1107,B,A,False,A. same
+1108,B,B,True,B. Not the same
+1109,B,B,True,B. Not the same
+1110,B,B,True,B. Not the same
+1112,B,B,True,B. Not the same
+1113,A,B,False,B. Not the same
+1114,A,A,True,A. same
+1116,A,B,False,B. Not the same
+1117,B,B,True,B. Not the same
+1118,B,B,True,B. Not the same
+1120,B,B,True,B. Not the same
+1121,B,B,True,B. Not the same
+1122,A,A,True,A. same
+1123,A,A,True,A. same
+1124,A,B,False,B. Not the same
+1125,B,B,True,B. Not the same
+1127,B,B,True,B. Not the same
+1128,B,B,True,B. Not the same
+1129,B,B,True,B. Not the same
+1130,B,A,False,A. same
+1131,B,B,True,B. Not the same
+1133,B,B,True,B. Not the same
+1137,B,B,True,B. Not the same
+1189,A,A,True,A. this person is gonna cry
+1192,B,B,True,B
+1193,B,D,False,D
+1195,A,C,False,C. this person is gonna get mad
+1198,A,D,False,D
+1199,B,B,True,B. the car is gonna crash into the fence
+1200,B,D,False,D
+1201,C,C,True,C. this person is gonna fall into the water
+1204,A,B,False,B
+1205,A,D,False,D
+1208,C,D,False,D
+1209,A,D,False,D
+1210,A,D,False,D
+1211,B,D,False,D
+1212,B,B,True,B
+1213,A,D,False,D
+1214,C,C,True,C
+1215,C,D,False,D
+1217,A,D,False,D
+1218,C,C,True,C
+1219,A,D,False,D
+1221,D,D,True,D
+1224,C,B,False,B. the man is gonna lift up the weight
+1226,A,D,False,D
+1227,B,D,False,D
+1229,A,D,False,D
+1230,B,D,False,D
+1544,A,A,True,A
+1545,A,A,True,A
+1546,C,A,False,A
+1547,C,C,True,C
+1548,C,C,True,C
+1549,B,A,False,A
+1550,A,A,True,A
+1551,B,B,True,B
+1552,A,A,True,A
+1553,A,A,True,A
+1554,C,A,False,A
+1555,D,A,False,A
+1557,C,A,False,A
+1561,D,C,False,C
+1563,D,B,False,B
+1564,D,D,True,D
+1566,D,A,False,A
+1567,D,D,True,D
+1568,D,B,False,B
+1569,D,A,False,A
+1570,D,A,False,A
+1,D,D,True,D
+2,D,D,True,D
+7,B,B,True,B
+8,A,A,True,A
+9,B,B,True,B
+11,A,A,True,A
+12,B,C,False,C
+16,A,D,False,D
+18,B,B,True,B
+21,B,B,True,B
+22,A,A,True,A
+24,D,D,True,D
+25,D,D,True,D
+27,D,D,True,D
+28,A,A,True,A
+30,A,A,True,A
+38,A,A,True,A
+45,B,B,True,B
+46,D,D,True,D
+47,B,B,True,B
+48,A,A,True,A
+49,D,D,True,D
+50,A,A,True,A
+53,A,A,True,A
+54,A,A,True,A
+55,D,D,True,D
+57,A,A,True,A
+58,B,B,True,B
+62,C,C,True,C
+64,D,D,True,D
+67,D,D,True,D
+68,B,B,True,B
+69,B,B,True,B
+70,C,C,True,C
+72,D,D,True,D
+73,D,D,True,D
+74,A,A,True,A
+75,D,D,True,D
+78,D,D,True,D
+82,A,A,True,A
+85,C,C,True,C
+86,D,D,True,D
+88,A,A,True,A
+89,A,A,True,A
+91,B,B,True,B
+92,C,C,True,C
+94,C,C,True,C
+95,A,A,True,A
+97,A,A,True,A
+99,C,C,True,C
+100,D,D,True,D
+101,B,B,True,B
+102,B,B,True,B
+107,C,C,True,C
+108,C,C,True,C
+109,D,D,True,D
+112,C,C,True,C. A soccer player looks up at a soccer
+114,C,C,True,C
+115,A,A,True,A
+116,A,A,True,A
+118,C,C,True,C
+121,A,A,True,A
+122,C,C,True,C
+124,B,B,True,B
+126,B,B,True,B
+133,C,C,True,C
+134,B,B,True,B
+137,C,C,True,C. The cake has been served and enjoyed by
+138,C,C,True,C
+139,D,D,True,D
+144,D,D,True,D
+145,B,B,True,B
+146,A,A,True,A
+148,A,A,True,A
+149,B,B,True,B. The presence of at least 10
+151,B,B,True,B
+153,A,A,True,A
+155,A,A,True,A
+158,C,C,True,C
+159,A,A,True,A
+162,A,A,True,A
+164,B,B,True,B
+166,A,A,True,A
+167,B,D,False,D
+170,A,A,True,A
+174,A,A,True,A
+182,C,C,True,"C. The skateboarder's impressive skill, balance"
+183,C,C,True,C. To protect their clothes and belongings from getting
+184,B,B,True,B
+190,A,A,True,A
+193,A,A,True,A
+196,A,A,True,A
+197,A,A,True,A
+198,A,A,True,A
+199,A,A,True,A
+200,A,A,True,A
+202,A,A,True,A
+204,A,A,True,A. Engaging in recreational activities like flying k
+205,A,A,True,A
+209,A,A,True,A
+210,A,A,True,A
+212,A,A,True,A
+214,A,A,True,A
+215,C,C,True,C
+216,B,B,True,B
+217,A,A,True,A
+221,D,D,True,D. Raleigh
+223,C,C,True,C. New Hampshire
+228,C,C,True,C. Olympia
+231,A,D,False,D. Nevada
+232,C,C,True,C. Frankfort
+236,D,D,True,D. Australia
+239,A,A,True,A. North Carolina
+303,D,D,True,D. PH3
+322,D,D,True,D
+323,A,A,True,A. Jenny can trade her tomatoes for Olivia's
+325,A,A,True,A. Troy can trade his tomatoes for Jason's
+329,A,A,True,A. Mackenzie can trade her tomatoes for Z
+330,B,B,True,B. Gordon can trade his tomatoes for Roxanne
+334,A,C,False,C. Xavier can trade his broccoli for Hazel's
+335,B,D,False,D. Victoria can trade her broccoli for Austin's
+337,C,C,True,C. Chloe can trade her tomatoes for Justin's
+338,A,C,False,C. Madelyn can trade her broccoli for D
+339,D,D,True,D
+345,A,A,True,A. Virginia
+346,D,D,True,D. Rhode Island
+348,B,D,False,D. South Carolina
+349,C,C,True,C. Massachusetts
+352,A,A,True,A. Pennsylvania
+353,D,D,True,D
+356,B,B,True,B. Massachusetts
+359,C,C,True,C. New Hampshire
+382,D,D,True,D
+386,D,D,True,D
+394,D,D,True,D
+456,A,A,True,A. the Babylonian Empire
+457,A,A,True,A
+459,B,D,False,D. D
+461,B,B,True,B. the Babylonian Empire
+462,D,C,False,C. A
+463,A,A,True,A
+465,B,A,False,A. 35 years
+466,C,C,True,C
+469,A,A,True,A
+474,B,B,True,B
+490,B,B,True,B. different countries . . . work together for
+491,A,A,True,A. B
+494,A,A,True,A
+496,A,A,True,A
+498,A,A,True,A
+500,A,A,True,A
+503,A,A,True,A
+505,A,C,False,C
+506,A,B,False,B
+507,A,A,True,A
+508,A,A,True,A
+510,A,A,True,A
+511,A,D,False,D
+512,C,C,True,C
+515,A,A,True,A. happiness
+517,A,C,False,C. happy
+520,C,C,True,C. anger
+522,B,B,True,B. sadness
+523,B,B,True,B. disordered
+526,A,A,True,A. happiness
+527,A,A,True,A. happiness
+529,C,C,True,C. happy
+532,B,D,False,D
+534,B,B,True,B. sadness
+535,D,A,False,A. engaged
+536,A,B,False,B. lonely
+539,A,B,False,B. distressed
+543,B,B,True,B. sadness
+544,A,A,True,A
+545,B,B,True,B. lonely
+548,C,C,True,C. comic
+550,B,B,True,B. comic
+553,B,C,False,C. pencil
+555,A,A,True,A. late renaissance
+556,D,D,True,D
+559,C,C,True,C. oil paint
+560,A,A,True,A. oil paint
+562,B,B,True,B. pencil
+565,A,A,True,A
+568,A,A,True,A. vector art
+569,C,C,True,C. vector art
+570,D,A,False,A. oil paint
+572,B,B,True,B. watercolor
+573,A,A,True,A. watercolor
+575,A,A,True,A. pushing cart
+576,C,C,True,C. making tea
+579,B,B,True,B. pushing cart
+582,C,A,False,A. marching
+585,D,D,True,D. making tea
+586,D,D,True,D. making tea
+587,B,B,True,B. swing dancing
+588,C,C,True,C. paragliding
+589,D,B,False,B. swimming butterfly stroke
+591,C,C,True,C. situp
+592,C,B,False,B. grooming dog
+594,A,A,True,A. pushing car
+597,C,C,True,C. purple
+598,B,B,True,B. cyan
+599,D,D,True,D. brown
+602,C,C,True,C. yellow
+605,A,A,True,A. gray
+606,C,C,True,C. brown
+615,A,A,True,A
+618,B,B,True,B. angry
+619,B,B,True,B. angry
+620,C,C,True,C. sad
+621,C,C,True,C. sad
+622,D,D,True,D
+626,D,C,False,C. sad
+629,D,C,False,C. 0.5
+631,C,C,True,C. 0.6
+632,C,C,True,C
+633,A,D,False,D. 1
+634,B,B,True,B
+635,B,C,False,C. more than 50%
+637,B,A,False,A. more than 50%
+638,A,C,False,C
+640,D,D,True,D
+641,C,B,False,B
+642,B,B,True,B
+646,C,C,True,C. bottom left
+647,C,B,False,B. right
+648,A,D,False,D
+651,B,B,True,B. right
+654,B,B,True,B. facing the camera
+655,C,C,True,C. facing the camera
+656,A,D,False,D. back to the camera
+657,A,A,True,A. one
+659,A,A,True,A. one
+660,C,C,True,C. two
+661,A,A,True,A. one
+662,C,C,True,C. two
+664,D,C,False,C. three
+665,B,B,True,B. four
+667,C,C,True,C. zero
+668,A,A,True,A. zero
+670,D,C,False,C. seven
+672,A,C,False,C. seven
+673,A,C,False,C. three
+675,B,B,True,B. one
+676,C,C,True,C. one
+679,C,C,True,C. Tank
+685,A,A,True,A. quilt
+686,A,A,True,A. cup
+687,B,B,True,B. sneaker
+688,C,C,True,C. glove
+689,A,A,True,A. badminton racket
+690,C,C,True,C. Basketable
+692,A,A,True,A
+693,B,B,True,B. Piano
+694,C,C,True,C. Refrigerator
+695,D,D,True,D. Washing machine
+697,A,A,True,A
+699,C,C,True,C
+702,B,B,True,B
+705,A,A,True,A
+709,A,A,True,A
+710,A,A,True,A
+711,B,B,True,B
+712,C,C,True,C
+714,A,A,True,A
+715,B,B,True,B
+717,A,A,True,A
+718,D,D,True,D
+720,D,D,True,D
+721,B,B,True,B. Keanu Reeves
+722,A,A,True,A. Keanu Reeves
+723,D,D,True,D
+724,B,B,True,B. Elon Musk
+727,B,B,True,B. Donald Trump
+729,B,B,True,B. Leonardo Dicaprio
+734,B,B,True,B. Jing Wu
+736,D,D,True,D. Jay Chou
+737,C,C,True,C. Jay Chou
+742,C,C,True,C. Jack Ma
+743,A,A,True,A
+744,D,D,True,D. Kobe Bryant
+748,D,D,True,D. Ming Yao
+750,D,D,True,D. Bear Grylls
+757,C,C,True,C. Morgan Freeman
+758,D,D,True,D
+759,B,B,True,B. Kanye West
+761,B,B,True,B. Kanye West
+762,C,C,True,C. Xiang Liu
+764,C,C,True,C. Xiang Liu
+767,D,D,True,D
+768,C,A,False,A. upper left
+771,D,A,False,A. upper left
+773,D,D,True,D. down right
+776,C,A,False,A. upper left
+778,C,C,True,C. down left
+779,C,B,False,B. upper right
+782,A,B,False,B. upper right
+783,C,B,False,B. upper right
+785,B,A,False,A. upper left
+788,C,C,True,C
+792,B,B,True,B. upper right
+793,A,B,False,B. upper right
+795,A,A,True,A. upper left
+796,B,D,False,D
+799,B,B,True,B. upper right
+800,D,D,True,D
+801,A,A,True,A. upper left
+802,D,D,True,D
+803,C,D,False,D
+804,A,B,False,B. upper right
+805,B,B,True,B. upper right
+806,B,A,False,A. upper left
+810,C,C,True,C. clean_room
+811,B,B,True,B. golf_course
+816,B,B,True,B. forest/broadleaf
+818,C,C,True,C. baseball_field
+819,B,B,True,B. campus
+825,A,A,True,A. nursing_home
+826,C,B,False,B. museum/indoor
+827,D,D,True,D. florist_shop/indoor
+848,A,A,True,A
+852,B,B,True,B
+853,C,C,True,C. cashier
+855,D,D,True,D
+856,D,D,True,D
+860,D,C,False,C
+861,B,B,True,B
+865,D,D,True,D
+866,A,C,False,C. Sodium.
+867,C,C,True,C. Sodium.
+869,D,B,False,B. friends
+870,A,A,True,A. couple
+872,C,B,False,B
+875,A,A,True,A. professional
+879,B,B,True,B. friends
+880,D,B,False,B. friends
+884,C,B,False,B
+885,D,D,True,D
+887,D,D,True,D. professional
+889,C,C,True,C. The wine bottle is in front of the
+890,A,A,True,A
+892,D,A,False,A. The sink is surrounding the cat.
+896,D,D,True,D
+899,A,A,True,A. The sink contains the cat.
+901,A,A,True,A
+902,A,A,True,A. The suitcase is on the book.
+904,B,D,False,D
+905,C,C,True,C. The suitcase is surrounding the cat.
+908,C,C,True,C
+909,A,A,True,A
+911,A,A,True,A
+914,B,B,True,B
+918,B,B,True,B
+923,D,D,True,D. A pentagon is below a pentagon
+924,C,C,True,C
+926,A,A,True,A
+927,C,C,True,C
+928,A,A,True,A
+930,B,B,True,B. supply water for suppressing fire.
+931,D,D,True,D
+932,A,A,True,A
+933,A,A,True,A
+935,C,C,True,C. Play tennis
+936,A,A,True,A
+938,A,A,True,A
+939,A,A,True,A
+941,B,B,True,B. sleep
+943,D,D,True,D
+944,C,C,True,C
+946,C,C,True,C. Transportation of people and cargo.
+947,D,D,True,D. control the cursor on a computer screen and
+950,A,A,True,A
+951,A,A,True,A
+952,D,D,True,D
+958,C,C,True,C. A cow is eating grass
+959,B,B,True,B. A man is playing tennis
+960,C,C,True,C
+961,B,B,True,B. Driving buses
+962,C,C,True,C. A man surfing
+963,C,C,True,C. A man skiting
+964,B,C,False,C. A man is holding a sandwich
+965,B,A,False,A
+967,A,A,True,A
+968,C,C,True,C. Xi'an
+969,A,A,True,A
+970,D,D,True,D
+971,B,B,True,B. Xi'an
+973,A,A,True,A
+974,C,C,True,C. Shanghai
+975,B,A,False,A
+976,A,A,True,A. Shanghai Tower
+977,A,A,True,A
+979,D,D,True,D
+980,A,A,True,A
+981,B,B,True,B. Seine River
+982,A,A,True,A
+984,A,B,False,B
+985,C,C,True,C. Singapore
+986,C,C,True,C. Singapore
+987,A,A,True,A
+988,C,C,True,C. Hong Kong
+990,D,D,True,D
+991,C,C,True,C. Hong Kong
+992,A,A,True,A
+994,D,D,True,D
+997,B,D,False,D
+998,A,A,True,A. Flowers are in the vase
+999,B,B,True,B
+1000,A,A,True,A
+1001,A,D,False,D
+1002,C,C,True,C. Two washbasins are next to each
+1003,C,A,False,A
+1004,B,B,True,B
+1005,A,A,True,A
+1006,A,A,True,A
+1013,A,A,True,A
+1015,D,B,False,B
+1018,C,C,True,C. He will be arrested and taken to the
+1021,C,D,False,D
+1025,D,D,True,D
+1026,C,B,False,B. She will maintain her current leg muscle size
+1030,C,C,True,C. The glasses will be broken
+1031,C,C,True,C. The ice will melt
+1033,B,B,True,B. The man fails to land and breaks the
+1037,C,C,True,C. The target enemy will be shot
+1038,C,C,True,C. The water will evaporate
+1040,A,A,True,A
+1041,A,A,True,A
+1042,A,A,True,A
+1044,B,B,True,B. shopping mall
+1047,C,C,True,C. street
+1048,C,C,True,C
+1049,D,D,True,D
+1050,D,D,True,D
+1053,A,A,True,A
+1054,A,A,True,A
+1056,B,B,True,B. rainy
+1057,B,B,True,B. rainy
+1058,C,B,False,B. rainy
+1060,C,C,True,C. windy
+1061,D,D,True,D
+1062,D,D,True,D. snowy
+1065,A,A,True,A. spring
+1066,A,A,True,A. spring
+1067,B,B,True,B
+1068,B,B,True,B. summer
+1072,C,C,True,C. fall
+1074,D,D,True,D. winter
+1075,D,D,True,D. winter
+1076,A,A,True,A. Mountainous
+1078,A,A,True,A. Mountainous
+1079,B,B,True,B. Coastal
+1083,C,C,True,C. plain
+1084,D,A,False,A. Mountainous
+1139,D,D,True,D
+1143,A,A,True,A. Father and daughter
+1144,A,A,True,A. Father and daughter
+1147,A,A,True,A. Father and daughter
+1148,B,B,True,B. Mother and son
+1149,B,B,True,B. Mother and son
+1150,B,B,True,B. Mother and son
+1153,C,C,True,C. Brother and sister
+1154,C,C,True,C. Brother and sister
+1155,C,C,True,C. Brother and sister
+1156,B,B,True,B. Mother and son
+1157,B,B,True,B. Mother and son
+1158,B,B,True,B. Mother and son
+1159,B,B,True,B. Grandfather and granddaughter
+1160,B,B,True,B. Grandfather and granddaughter
+1163,B,B,True,B. Grandfather and granddaughter
+1165,C,C,True,C. Grandmother and grandson
+1166,C,C,True,C. Grandmother and grandson
+1168,C,C,True,C. Grandmother and grandson
+1169,A,A,True,A. Teacher and student
+1170,A,A,True,A. Teacher and student
+1171,A,A,True,A. Teacher and student
+1172,A,A,True,A. Teacher and student
+1173,A,A,True,A. Classmates
+1174,A,A,True,A. Classmates
+1175,A,A,True,A. Classmates
+1176,D,D,True,D
+1177,D,D,True,D. Classmates
+1179,B,B,True,B. Colleagues
+1180,B,B,True,B. Colleagues
+1181,B,B,True,B. Colleagues
+1182,A,A,True,A. Mother and daughter
+1187,B,B,True,B. Father and son
+1282,A,A,True,A. circle
+1284,B,B,True,B. triangle
+1288,C,C,True,C. square
+1290,D,D,True,D. rectangle
+1293,A,A,True,A. oval
+1294,A,A,True,A. oval
+1295,B,B,True,B. heart
+1297,C,C,True,C. star
+1298,C,C,True,C. star
+1299,D,D,True,D. octagon
+1300,D,D,True,D
+1301,A,A,True,A
+1302,A,A,True,A
+1303,A,A,True,A
+1304,B,B,True,B
+1305,B,B,True,B. blue
+1306,B,B,True,B. blue
+1307,C,C,True,C. yellow
+1308,C,C,True,C. yellow
+1311,D,D,True,D
+1312,D,D,True,D
+1313,A,A,True,A
+1314,A,A,True,A
+1316,B,B,True,B. pink
+1319,D,D,True,D
+1320,D,D,True,D
+1321,A,A,True,A
+1323,A,A,True,A
+1324,B,B,True,B. sad
+1325,C,C,True,C. Happy
+1327,D,B,False,B
+1328,C,C,True,C. Happy
+1329,C,C,True,C. Happy
+1330,B,B,True,B
+1332,A,A,True,A
+1333,B,B,True,B
+1334,A,A,True,A. Sad
+1335,C,C,True,C. Happy
+1338,A,C,False,C. Happy
+1339,C,C,True,C. Happy
+1343,D,D,True,D. Angry
+1344,A,A,True,A
+1345,C,C,True,C. Happy
+1346,A,A,True,A. Sad
+1347,C,C,True,C. Happy
+1350,D,D,True,D. Angry
+1351,A,A,True,A. Sad
+1352,C,C,True,C. Happy
+1354,B,C,False,C. Happy
+1355,A,A,True,A. Sad
+1356,C,C,True,C. Happy
+1357,A,A,True,A
+1361,A,A,True,A. Sad
+1362,D,D,True,D. Angry
+1363,C,C,True,C. Happy
+1364,A,A,True,A
+1367,A,A,True,A
+1368,C,C,True,C
+1369,C,C,True,C
+1370,C,C,True,C
+1373,D,D,True,D
+1374,C,C,True,C. Happy
+1377,C,C,True,C. carpenter
+1378,D,D,True,D
+1381,C,C,True,C. hairdresser
+1382,D,D,True,D
+1384,B,B,True,B. nurse
+1385,C,C,True,C. painter
+1387,B,B,True,B. plumber
+1388,D,D,True,D
+1389,B,B,True,B. postman
+1391,D,D,True,D
+1392,D,D,True,D
+1393,A,A,True,A
+1394,B,B,True,B
+1395,C,C,True,C. waiter
+1396,C,C,True,C. athlete
+1397,C,C,True,C. electrician
+1398,C,C,True,C. janitor
+1399,B,B,True,B
+1402,D,D,True,D. pianist
+1403,A,A,True,A
+1405,C,C,True,C. violinist
+1406,A,A,True,A
+1407,C,C,True,C. repairman
+1408,B,B,True,B. dancer
+1409,C,C,True,C. writer
+1410,D,D,True,D. architect
+1413,B,B,True,B. accountant
+1414,C,C,True,C. cashier
+1416,C,C,True,C. dentist
+1420,C,C,True,C. gardener
+1422,C,C,True,C. florist
+1423,A,A,True,A
+1424,B,B,True,B
+1425,A,A,True,A
+1426,B,B,True,B. Prince Harry
+1428,D,D,True,D
+1430,B,B,True,B
+1431,C,C,True,C. Ed Sheeran
+1432,D,D,True,D
+1433,A,A,True,A
+1436,D,D,True,D
+1438,B,B,True,B. Kate Middleton
+1440,D,D,True,D. J.K. Rowling
+1442,B,B,True,B. Helen Mirren
+1444,D,C,False,C. Kate Winslet
+1446,B,B,True,B. Salman Khan
+1447,C,C,True,C. Shah Rukh Khan
+1451,C,C,True,C. Sandra Oh
+1452,D,D,True,D
+1453,A,A,True,A
+1454,B,B,True,"B. The Eiffel Tower in Paris,"
+1455,C,C,True,"C. St. Basil’s Cathedral in Moscow,"
+1457,A,A,True,A
+1458,B,B,True,B
+1459,C,C,True,"C. The Little Mermaid in Copenhagen, Denmark"
+1461,A,A,True,A
+1462,B,B,True,B
+1464,D,D,True,D
+1466,B,B,True,B. The Burj al Arab Hotel in Dubai
+1467,C,C,True,"C. Tower of Pisa, Italy"
+1469,A,A,True,A. Loch Ness in Scotland
+1470,B,B,True,B. Mont St. Michel in France
+1471,C,C,True,"C. Bran Castle in Transylvania, Romania"
+1472,D,D,True,D
+1476,D,D,True,D
+1477,A,A,True,A
+1479,C,C,True,C. a biopsy
+1480,D,D,True,D
+1483,C,C,True,C. bread stick
+1484,B,C,False,C. bread stick
+1485,A,A,True,A. 4 apples and 2 bananas
+1487,C,C,True,C. 1 apples and 1 bananas
+1488,D,B,False,B. 1 apples and 4 bananas
+1489,A,A,True,A. top-right
+1492,C,C,True,C. left
+1493,D,D,True,D. 5
+1495,C,C,True,C. left
+1497,A,A,True,A. top-right
+1499,D,D,True,D
+1500,B,B,True,B. 2
+1501,C,A,False,A. top-right
+1504,C,C,True,C. left
+1505,C,D,False,D. 4
+1506,D,D,True,D. 6
+1507,D,A,False,A. top-right
+1510,D,D,True,D
+1511,D,A,False,A. top-right
+1514,A,A,True,A. top-right
+1515,A,A,True,A. 2
+1516,B,D,False,D. right
+1517,C,C,True,C. 4
+1518,D,D,True,D
+1519,B,B,True,B
+1521,D,D,True,D. right
+1522,B,C,False,C. left
+1523,A,A,True,A
+1524,B,D,False,D
+1526,D,D,True,D
+1530,A,A,True,A. top-right
+1531,B,B,True,B. 4
+1532,A,D,False,D. right
+1534,C,B,False,B. 2
+1535,A,A,True,A
+1536,A,A,True,A
+1538,A,A,True,A
+1539,A,A,True,A
+1573,A,A,True,A
+1574,B,B,True,B. sketch
+1575,B,B,True,B. sketch
+1576,B,B,True,B. sketch
+1578,C,C,True,C. digital art
+1579,C,C,True,C. digital art
+1580,D,D,True,D. photo
+1582,D,D,True,D. photo
+1583,A,A,True,A. remote sense image
+1585,A,A,True,A
+1586,D,D,True,D. map
+1588,D,D,True,D. map
+1589,B,B,True,B. 8-bit
+1591,B,B,True,B. 8-bit
+1592,A,A,True,A. medical CT image
+1594,A,A,True,A. medical CT image
+1595,A,A,True,A
+1597,A,A,True,A
+1598,B,B,True,B. post-Impressionism
+1602,C,C,True,C. modernism
+1603,A,A,True,A
+1604,D,D,True,D
+1605,D,D,True,D. dadaism
+1606,D,B,False,B. post-Impressionism
+1608,A,A,True,A. MRI image
+1609,A,A,True,A. MRI image
+1612,B,B,True,B. icon
+1614,C,C,True,C. microscopic image
+1615,C,C,True,C. microscopic image
+1617,D,D,True,D. abstract painting
+1618,D,D,True,D. abstract painting
+1619,A,A,True,A. ink wash painting
+1620,A,A,True,A. ink wash painting
+1621,A,A,True,A
+1623,B,B,True,B. watercolor painting
+1628,D,D,True,D
+1629,D,D,True,D
+1630,D,D,True,D
+1632,A,A,True,A
+1636,B,A,False,A
+1637,C,C,True,C
+1638,D,D,True,D
+1639,A,A,True,A
+1642,D,B,False,B
+1643,A,B,False,B
+1645,C,C,True,C
+1647,A,A,True,A
+1651,A,A,True,A
+1653,C,C,True,C
+1655,D,D,True,D
+1656,B,B,True,B
+1657,A,A,True,A
+1658,C,A,False,A
+1659,B,A,False,A
+1660,B,B,True,B
+1662,A,D,False,D
+1663,C,C,True,C
+1664,A,C,False,C
+1665,C,C,True,C
+1666,A,C,False,C
+1667,D,D,True,D
+1668,A,A,True,A
+1669,A,C,False,C
+1670,B,A,False,A
+1671,A,C,False,C
+1672,A,A,True,A
+1674,A,A,True,A
+1675,D,D,True,D
+1676,A,A,True,A
+1677,A,A,True,A
+1679,B,C,False,C
+1680,A,A,True,A
+1681,A,A,True,A
+1683,C,C,True,C. Water purification
+1684,D,D,True,D. Boiling water
+1685,A,A,True,A. Write
+1688,D,A,False,A. Write
+1689,A,A,True,A. Draw
+1691,C,A,False,A. Draw
+1693,A,A,True,A
+1695,C,C,True,C. adjust
+1696,D,D,True,D
+1697,A,A,True,A. Separatist
+1700,C,C,True,C. drill
+1701,A,A,True,A
+1702,B,B,True,B
+1703,C,C,True,C. weld
+1706,B,B,True,B
+1707,C,C,True,C. burnish
+1710,B,B,True,B
+1711,C,C,True,C. Bulldozing
+1712,D,D,True,D
+1713,A,A,True,A. Cooking
+1714,B,A,False,A. Cooking
+1715,C,A,False,A. Cooking
+1717,A,A,True,A
+1718,B,B,True,B. filtration
+1719,C,C,True,C. flavouring
+1720,D,D,True,D. Pick-up
+1722,B,A,False,A. baking
+1726,D,C,False,C. Stationery
+1727,A,A,True,A
+1728,B,B,True,B. Look into the distance
+1730,D,D,True,D
+1732,A,A,True,A
+1734,C,C,True,C. No photography allowed
+1736,C,C,True,C
+1737,A,A,True,A. Team A and Team B.
+1738,B,B,True,B. To find qualified candidates for the open positions
+1740,A,A,True,A. Add
+1741,B,B,True,B. Subtract
+1743,D,D,True,D
+1744,C,C,True,C
+1745,B,B,True,B
+1749,D,D,True,D
+1750,B,B,True,B
+1751,C,C,True,C. World Water Day.
+1752,A,A,True,A. Earth Day.
+1753,B,B,True,B. National Reading Day.
+1754,D,D,True,D
+1755,C,C,True,C. Father's Day.
+1756,B,B,True,B. Children's Day.
+1757,D,D,True,D. Circle.
+1758,C,C,True,C. Triangle.
+1760,A,A,True,A. Square.
+1762,A,A,True,A. Trapezoid.
+1764,B,D,False,D. Sphere.
+1765,C,C,True,C. Cone.
+1769,D,D,True,D
+1770,A,C,False,C
+1771,B,B,True,B
+1772,A,A,True,A
+1773,C,B,False,B. Writing Maths and learning Hindi.
+1774,D,B,False,B. 11:30-1
+1780,B,B,True,B. 45
+1781,A,A,True,A
+1783,C,C,True,C
+1785,A,A,True,A
+1787,C,C,True,"C. A sandwich with ham, lettuce, and"
+1791,C,C,True,C
+1792,D,D,True,D
+1793,A,A,True,A
+1794,B,B,True,B
+1795,C,C,True,C
+1796,D,D,True,D
+1798,B,B,True,B. A group of people dancing at a party
+1799,C,C,True,C. A singer performing on a microphone
+1800,D,D,True,D
+1801,A,A,True,A
+1802,B,B,True,B. A person kayaking on a lake
+1805,A,A,True,A
+1808,D,D,True,D
+1809,A,A,True,A
+1811,C,C,True,C
+1812,D,D,True,D
+1813,A,A,True,A
+1814,B,B,True,B. A group of people sunbathing on
+1815,C,C,True,C. A person skiing down a mountain
+1816,D,D,True,D
+1821,A,A,True,A
+1822,B,B,True,B. A person riding a horse in a field
+1823,C,C,True,C. A woman fishing on a riverbank
+1824,D,D,True,D
+1825,A,A,True,A
+1826,B,B,True,B. A group of people playing basketball on a
+1827,C,C,True,C
+1828,D,D,True,D
+1830,B,B,True,B
+1831,C,C,True,C. A woman sculpting a statue from clay
+1835,C,C,True,C. A woman using a computer at a desk
+1837,A,A,True,A
+1839,C,C,True,C. A woman taking a walk in a park
+1842,D,C,False,C. west
+1843,D,B,False,B. south
+1846,D,C,False,C. west
+1847,D,B,False,B. south
+1849,D,C,False,C. west
+1850,A,A,True,A. east
+1851,A,A,True,A. east
+1852,C,C,True,C. west
+1853,D,C,False,C. west
+1854,C,D,False,D. north
+1857,B,D,False,D. north
+1858,C,C,True,C. west
+1859,A,A,True,A. east
+1860,D,D,True,D. north
+1862,A,C,False,C. west
+1863,A,D,False,D. north
+1865,C,C,True,C. west
+1866,D,C,False,C. west
+1867,D,C,False,C. west
+1868,B,C,False,C. west
+1870,D,C,False,C. west
+1871,B,A,False,A. east
+1875,C,C,True,C. west
+1876,C,C,True,C. west
+1877,A,B,False,B. south
+1878,D,C,False,C. west
+1879,D,B,False,B. southwest
+1880,C,C,True,C. southeast
+1881,C,B,False,B. southwest
+1882,D,C,False,C. southeast
+1888,D,B,False,B. southwest
+1889,D,B,False,B
+1891,A,A,True,A
+1892,C,C,True,C
+1897,B,B,True,B
+1898,A,A,True,A
+1900,A,A,True,A
+1901,C,C,True,C
+1902,C,C,True,C
+1904,B,B,True,B
+1905,A,A,True,A
+1907,A,A,True,A
+1908,B,B,True,B
+1910,C,C,True,C
+1911,B,B,True,B
+1912,C,C,True,C
+1913,A,A,True,A
+1914,A,A,True,A
+1916,D,D,True,D
+1917,D,D,True,D
+1918,C,C,True,C
+1919,A,A,True,A
+1920,B,B,True,B
+1922,A,A,True,A
+1923,A,A,True,A
+1924,B,B,True,B
+1925,A,A,True,A
+1926,C,C,True,C
+1927,B,B,True,B
+1931,B,B,True,B
+1935,A,A,True,A
+1936,C,C,True,C
+1937,A,A,True,A
+1938,B,B,True,B
+1940,A,C,False,C. Parasitic relationships
+1941,A,A,True,A. Predatory relationships
+1943,A,A,True,A. Predatory relationships
+1945,A,A,True,A. Predatory relationships
+1946,A,A,True,A. Predatory relationships
+1947,A,A,True,A. Predatory relationships
+1948,A,A,True,A. Predatory relationships
+1950,A,A,True,A. Predatory relationships
+1951,A,A,True,A. Predatory relationships
+1952,A,B,False,B. Competitive relationships
+1953,B,B,True,B. Competitive relationships
+1956,B,A,False,A. Predatory relationships
+1957,D,B,False,B. Competitive relationships
+1959,D,A,False,A
+1961,D,C,False,C. Parasitic relationships
+1962,D,A,False,A. Predatory relationships
+1963,D,D,True,D
+1964,B,B,True,B. Competitive relationships
+1965,B,A,False,A. Predatory relationships
+1966,B,A,False,A
+1967,B,B,True,B. Competitive relationships
+1969,D,C,False,C. Parasitic relationships
+1972,B,B,True,B
+1975,B,B,True,B. Competitive relationships
+1976,B,B,True,B
+1977,B,B,True,B
+1979,B,B,True,B
+1980,A,A,True,A. Predatory relationships
+1981,A,A,True,A. Predatory relationships
+1982,A,A,True,A. Predatory relationships
+1985,A,A,True,A. Predatory relationships
+1986,A,A,True,A. Predatory relationships
+1987,A,A,True,A. Predatory relationships
+1988,A,A,True,A. Predatory relationships
